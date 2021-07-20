@@ -1,0 +1,28 @@
+{
+	"categories": [{
+		"category_id": 0,
+		"category_name": "NBA END GAME",
+		"permanent": true
+	}, {
+		"category_id": 2,
+		"category_name": "2pt Shot",
+		"permanent": true
+	}, {
+		"category_id": 3,
+		"category_name": "3pt Shot",
+		"permanent": true
+	}, {
+		"category_id": 4,
+		"category_name": "Rebound",
+		"permanent": true
+	}, {
+		"category_id": 5,
+		"category_name": "Turnover",
+		"permanent": true
+	}, {
+		"category_id": 12,
+		"category_name": "START PERIOD",
+		"permanent": true
+	}]
+
+}
